@@ -15,7 +15,11 @@ This project is a standalone version so that it eases the data processing use  c
 
 **Roadmap**
 
-- V0 - Adds base wrappers
-- V1 - Add additional sync support like Parquet , Delta & Iceberg format etc.
+- V0
+  - Adds base wrappers , perform initial benchmarks
+- V1
+  - Add additional sync support like Parquet , Delta & Iceberg format etc.
+
+**Documentation**
 
 https://dflib.org/
